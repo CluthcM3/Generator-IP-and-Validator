@@ -1,4 +1,9 @@
 <?php
+/*
+@Author : M31337
+@Date : Tuesday, May 18, 2021, 20:06
+*/
+
 require __DIR__ . '/Requests/library/Requests.php';
 require __DIR__ . '/vendor/autoload.php';
 error_reporting(E_ALL);
