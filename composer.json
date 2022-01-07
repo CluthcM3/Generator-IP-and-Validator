@@ -1,0 +1,8 @@
+{
+    "require": {
+        "rmccue/requests": "^2.0",
+        "kriswallsmith/buzz": "^1.2",
+        "nyholm/psr7": "^1.4"
+    }
+    
+}
