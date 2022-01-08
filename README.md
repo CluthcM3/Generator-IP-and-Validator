@@ -6,17 +6,10 @@
 ```
 
 
-### Install
-Clone this project
+### Open Source
+You want this api??
 ```bash
-> git clone https://github.com/CluthcM3/Generator-IP-and-Validator.git
-> cd Generator-IP-and-Validator
-> git clone https://github.com/WordPress/Requests.git
-> composer install
+> use https://notime.today/random_data.php
 ```
 
 
-Usage
-```bash
-> php generator.php
-```
